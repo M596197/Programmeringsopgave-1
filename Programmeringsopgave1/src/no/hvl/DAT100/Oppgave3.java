@@ -13,7 +13,7 @@ public class Oppgave3 {
 		}else {
 		while(tall>1){
 		   total *=tall;
-		   tall--; 
+		   tall--;
 		}
 		System.out.println("Summen av " + førsteTall + "! er " + total);
 		}

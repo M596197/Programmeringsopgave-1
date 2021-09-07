@@ -25,7 +25,7 @@ public class Oppgave1 {
 			
 		} else if(lønn<lønnFire && lønn > lønnTre) {
 			totSkatt=   ((lønn - lønnTre)* skattTre)+
-						((lønnTre-lønnTo)*skattTo)+
+						((lønnTre-lønnTo)*skattTo)+ 
 						((lønnTo-lønnEn)*skattEn);
 			
 		}else if(lønn<=lønnTre && lønn >= lønnTo){
