@@ -11,7 +11,7 @@ public class Oppgave2 {
 		
 		String svar = showInputDialog("Skriv inn hvilke poengsum du fikk"); 
 		int poeng = parseInt(svar);
-		String karakter;
+		String karakter; 
 		
 		if (poeng>100 || poeng < 0) {
 			karakter = "Gyldige verdier er fra 0 til 100";

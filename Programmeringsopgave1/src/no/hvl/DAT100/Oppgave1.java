@@ -15,7 +15,7 @@ public class Oppgave1 {
 		double skattFire=0.1452;
 		double skattTre=0.1152;
 		double skattTo=0.0241;
-		double skattEn =0.0093;
+		double skattEn =0.0093; 
 		
 		if (lønn>lønnFire) {
 			totSkatt = 	((lønn - lønnFire)* skattFire)+
