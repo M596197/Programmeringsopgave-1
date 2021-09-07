@@ -1,7 +1,7 @@
 package no.hvl.DAT100;
 import static javax.swing.JOptionPane.*;
 import static java.lang.Integer.*;
-public class Oppgave2 {
+public class Oppgave2 { 
 
 	public static void main(String[] args) {
 		
